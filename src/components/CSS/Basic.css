@@ -1,0 +1,36 @@
+.home{
+    border: 2px solid red;
+}
+
+.img2{
+    height: 400px;
+    width: 400px;
+}
+.sell{
+    text-shadow: 200px;
+    /* color: rgb(226, 128, 128); */
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: x-large;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+.form-body{
+    background-color: rgb(125, 217, 217);
+    height:100vh;
+}
+
+input{
+    border-radius: 20px;
+}
+h1{
+    color: rgb(127, 255, 136);
+}
+
+.con-body{
+    background-color: rgba(165, 42, 42, 0.868);
+    margin-top: 20px;
+}
